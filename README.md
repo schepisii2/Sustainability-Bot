@@ -3,7 +3,7 @@
 
 ## Inspiration
 
-If 2020 taught us anything, it is that environmental, social, and governance issues (ESG) are a growing concern over the population, and change is inevitable. We recently learned from $GME about the impact that a group of novice investors can have on the stock market. Our goal was to find a way to direct individual investing into corporations that are incorporating ESG criteria into their businesses.
+If 2020 taught us anything, it is that environmental, social, and governance issues (ESG) are a growing concern over the population, and change is inevitable. We recently learned from $GME about the impact that a group of novice investors can have on the stock market. Our goal is direct the power of investing to corporations that are incorporating ESG criteria into their business.
 
 ## What it does
 
